@@ -28,7 +28,9 @@ Crafting a universal formula for movies that would captivate every individual pr
 
 # COMPONENTS
 Data from-https://grouplens.org/datasets/movielens/latest/
-Presentation-https://grouplens.org/datasets/movielens/latest/
+
+Presentation-https://docs.google.com/presentation/d/1PzVxNz-HxQ0NSYiMNIvJtx7LaBwRL3xakdopD9pmxHw/edit#slide=id.g2b11bf16861_1_274
+
 Github - Jupyter Notebook
 
 ## Data Understanding the Features 
